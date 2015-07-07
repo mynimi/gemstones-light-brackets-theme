@@ -13,8 +13,8 @@ This is the result.
 ##Screenshots
 
 ### HTML
-[![HTML](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.pngml.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.png)
+[![HTML](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.png)
 ### SCSS
-[![SCSS](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/scss.pngss.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/scss.png)
+[![SCSS](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/scss.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/scss.png)
 ### JavaScript
-[![JS](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/js.pngjs.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/js.png)
+[![JS](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/js.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/js.png)
