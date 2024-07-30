@@ -1,16 +1,16 @@
-#Gemstones Theme Light
+# Gemstones Theme Light
 
 After having some trouble with Gemstones in the sun, I decided to turn it into a light theme.
 This is the result.
 
-###Installation
+### Installation
 * Open Brackets
 * Open the Extension Manager
 * Switch to "Themes" tab
 * Search for "Gemstones Theme Light"
 * Click "Install"
 
-##Screenshots
+## Screenshots
 
 ### HTML
 [![HTML](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.png)](https://raw.githubusercontent.com/mynimi/gemstones-light-brackets-theme/master/screenshots/html.png)
